@@ -1,0 +1,8 @@
+.test {
+    --fontColor: yellowgreen;
+    color: var(--fontColor);
+}
+
+.one {
+    font-size: 120px;
+}
